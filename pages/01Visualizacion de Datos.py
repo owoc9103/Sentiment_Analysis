@@ -7,7 +7,7 @@ import numpy as np
 st.set_page_config(page_title="Javeriana Cali - App Financiera", layout="centered")
 
 # ------------------------ ENCABEZADO INSTITUCIONAL ------------------------
-st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Logo_PUJ.svg/2560px-Logo_PUJ.svg.png", width=250)
+#st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Logo_PUJ.svg/2560px-Logo_PUJ.svg.png", width=250)
 st.title("Universidad Javeriana de Cali")
 st.subheader("Facultad de Ciencias Económicas y Administrativas")
 

@@ -72,7 +72,7 @@ else:
         #media=datos['Close'].mean()
         
         
-        st.markdown("### 📈 Métricas Clave del Precio de la Acción")
+        #st.markdown("### 📈 Métricas Clave del Precio de la Acción")
 
         #st.metric(label="📊 Precio de Cierre Promedio", value=round(media,2), delta=100)
         #st.markdown("📊 Precio de Cierre Promedio", f"${datos['Close'].mean():.2f}")
